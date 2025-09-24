@@ -1,0 +1,13 @@
+# Ignore virtual environment
+venv/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code and other editor files
+.vscode/
+.idea/
